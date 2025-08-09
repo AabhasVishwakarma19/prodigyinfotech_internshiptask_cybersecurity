@@ -1,11 +1,11 @@
-PRODIGYINFOTECH INTERNSHIP IN CYBERSECURITY
+# PRODIGYINFOTECH INTERNSHIP IN CYBERSECURITY
 Prodigy InfoTech Cyber Security Internship My internship at Prodigy InfoTech spanned one month, from 15th July 2025 to 15th August 2025. During this time, I worked on multiple Cyber Security projects that strengthened my practical skills and understanding of key security concepts. All tasks were completed in Python, focusing on ethical use, secure coding practices, and real-world applications.
 
 Internship Duration: 1 Month (15 July– 15 August 2025) Mode: Online
 
-Offer Letter-
+# Offer Letter-
 
-Tasks Overview
+# Tasks Overview
 
 Task 1 — Caesar Cipher Encryption/Decryption A Python-based Caesar Cipher tool allowing encryption and decryption of text messages.
 
