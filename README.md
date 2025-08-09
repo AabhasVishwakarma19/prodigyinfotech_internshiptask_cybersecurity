@@ -9,7 +9,7 @@ Internship Duration: 1 Month (15 July– 15 August 2025) Mode: Online
 
 # Tasks Overview
 
-Task 1 — Caesar Cipher Encryption/Decryption A Python-based Caesar Cipher tool allowing encryption and decryption of text messages.
+# Task 1 — Caesar Cipher Encryption/Decryption A Python-based Caesar Cipher tool allowing encryption and decryption of text messages.
 
 User selects encrypt or decrypt mode.
 
@@ -19,7 +19,7 @@ Preserves spaces, punctuation, and non-letter characters.
 
 File: CaesarCipher.py
 
-Task 2 — Image Encryption Using Pixel Manipulation A simple image encryption/decryption tool using NumPy and Pillow (PIL).
+# Task 2 — Image Encryption Using Pixel Manipulation A simple image encryption/decryption tool using NumPy and Pillow (PIL).
 
 Encrypts by manipulating RGB pixel values using a key.
 
@@ -29,7 +29,7 @@ Handles both encryption and decryption modes via user input.
 
 File: Pixelmanipulationforimageencryption.py
 
-Task 3 — Password Complexity Checker A password assessment tool that evaluates strength based on:
+# Task 3 — Password Complexity Checker A password assessment tool that evaluates strength based on:
 
 Length
 
@@ -43,7 +43,7 @@ Provides strength rating and password security tips.
 
 File: passwordcomplexitychecker.py
 
-Task 4 — Basic Keylogger (Educational Use Only) A Python keylogger using pynput to record keystrokes.
+# Task 4 — Basic Keylogger -A Python keylogger using pynput to record keystrokes.
 
 Logs all key presses with timestamps.
 
@@ -55,7 +55,7 @@ Includes a disclaimer and permission check.
 
 File: simplekeylogger.py
 
-Task 5 — Network Packet Sniffer A Python packet sniffer using scapy to capture and analyze network packets.
+# Task 5 — Network Packet Sniffer A Python packet sniffer using scapy to capture and analyze network packets.
 
 Supports IPv4, IPv6, and ARP packet detection.
 
