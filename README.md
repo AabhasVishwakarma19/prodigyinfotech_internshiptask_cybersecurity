@@ -4,6 +4,8 @@ Prodigy InfoTech Cyber Security Internship My internship at Prodigy InfoTech spa
 Internship Duration: 1 Month (15 July– 15 August 2025) Mode: Online
 
 # Offer Letter-
+![Image](https://github.com/user-attachments/assets/c727fd9a-e435-4d05-8baf-1476be58654b)
+
 
 # Tasks Overview
 
